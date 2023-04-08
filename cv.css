@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background:#0ef; */
+    background-image:url('https://cdn.pixabay.com/photo/2016/10/11/21/43/geometric-1732847_1280.jpg') ;
+}
+#new{
+    background-image: url('https://cdn.pixabay.com/photo/2021/02/01/06/48/geometric-5969509_1280.png');
+}
+.container{
+    /* background: #0ef; */
+    width: 100%;
+
+}
+#pp{
+    color: #ffffff;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 250px;
+    padding-right: 200px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+#hd{
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+.stylish-line {
+    width: 50%;
+    margin: 0 auto;
+    border: none;
+    height: 2px;
+    background-color: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  }
+  
